@@ -33,7 +33,7 @@ Usage
 -----
 
 Import Bootstrap into a LESS file to get all of Bootstrap's styles, mixins and
-variables. For example, in ``css/styles.less``::
+variables. For example, in ``css/style.less``::
 
     @import 'bootstrap.less';
 
