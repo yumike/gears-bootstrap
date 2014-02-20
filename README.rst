@@ -26,7 +26,7 @@ add it manually::
 Requirements
 ------------
 
-`gears-bootstrap` uses `gears-less`, which requires node.js to be installed in
+``gears-bootstrap`` uses ``gears-less``, which requires node.js to be installed in
 your system.
 
 Usage
